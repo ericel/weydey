@@ -1,0 +1,84 @@
+/* Your styles here */
+.skin-green .main-header .navbar {
+    background-color: #212121 !important;
+  background-image: url('http://weydey.com/assets/images/stardust1.png');
+}
+.skin-green .main-header .logo {
+    background-color: #212121 !important;
+}
+.skin-green .main-header .navbar .sidebar-toggle:hover {
+    background-color: #212121 !important;
+}
+.skin-green .main-header .navbar .sidebar-toggle:hover {
+    background-color: #212121 !important;
+}
+.skin-green .sidebar-menu>li:hover>a, .skin-green .sidebar-menu>li.active>a {
+    color: #fff;
+    background: #1e282c;
+    border-left-color:  #0097a7 !important;
+}
+.panel-primary {
+    border-color: #00838F !important;
+}
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #00838F !important;
+    border-color: #00838F !important;
+}
+.alert-success, .label-success, .modal-success .modal-body {
+    background-color: #00838F !important;
+}
+.alert-success {
+    border-color: #00838F !important;
+}
+.skin-green .main-header li.user-header {
+    background-color: #00838F !important;
+}
+.btn-success {
+    background-color: #0097a7 !important;
+    border-color: #00838F !important;
+}
+.skin-green .sidebar-menu>li.active>a {
+    color: #fff;
+    background: #1e282c;
+    border-left-color: #00838F !important;
+}
+.red-text {
+    color: red;
+}
+.green-text {
+    color: green;
+}
+
+.p-y-2 {
+    padding-top: 28px;
+    padding-bottom: 28px;
+}
+.p-y-3 {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+.m-b-1 {
+    margin-bottom: 18px;
+}
+.m-t-1 {
+    margin-top: 18px;
+}
+
+
+            /*==========================================================
+                           counter section style
+            ============================================================*/
+
+            .main_counter_area{
+                background: url(https://images.pexels.com/photos/196288/pexels-photo-196288.jpeg?w=940&h=650&auto=compress&cs=tinysrgb) no-repeat top center;
+                background-size: cover;
+                overflow: hidden;
+            }
+            .main_counter_area .main_counter_content .single_counter{
+                background: rgba(0, 131, 143, 0.66);
+                    color: #fff;
+            }
+            .main_counter_area .main_counter_content .single_counter i{
+                font-size:36px;
+            }
